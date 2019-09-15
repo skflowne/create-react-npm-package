@@ -5,7 +5,7 @@ Boilerplate code to bundle a React component as an NPM package
 ```
 git clone https://github.com/skflowne/create-react-npm-package
 ```
-# Install, build and link the your package
+# Install, build and link your package
 ```
 yarn && yarn build && yarn link
 ```
@@ -24,4 +24,5 @@ Then start test app in another terminal
 cd example
 yarn start
 ```
+You can now dev your package and see your changes as soon as your hit save
 
